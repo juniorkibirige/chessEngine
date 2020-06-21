@@ -1,0 +1,2 @@
+all:
+	gcc jarvaang.c init.c helpers/bitboards.c helpers/hashkeys.c helpers/board.c helpers/data.c helpers/attack.c helpers/io.c moves/movegen.c helpers/validate.c moves/makemove.c tests/perft.c search/search.c helpers/misc.c  search/evaluate.c search/pvtable.c gui/uci.c gui/xboard.c polybooks/polybook.c polybooks/polykeys.c -o jarvaang -O2

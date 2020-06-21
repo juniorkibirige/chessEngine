@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "cstdlib": "cpp",
+        "limits": "c"
+    }
+}
